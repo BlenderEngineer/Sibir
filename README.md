@@ -1,2 +1,2 @@
 # Sibir
-Game where you need heating to survive
+Game in an abandoned Soviet era bunker where you need heating to survive.
