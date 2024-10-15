@@ -1,7 +1,7 @@
 # Sibir
 
 **Sibir** is a game set in an abandoned Soviet-era bunker where you must manage heating to survive.
-
+[More info](https://github.com/BlenderEngineer/Sibir/blob/main/Sibir%20Game%20Design%20Document.pdf)
 ---
 
 ## How to Download & Install
