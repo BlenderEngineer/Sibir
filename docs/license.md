@@ -4,7 +4,7 @@
 
 ## Summary
 
-Sibir is distributed under a **proprietary, all-rights-reserved** license via a custom End User License Agreement (EULA). The game is **not** open source. MIT, GPL, Apache, and similar licenses are intentionally not used.
+Sibir is distributed under a proprietary, all-rights-reserved license via a custom End User License Agreement (EULA). The game is not open source. MIT, GPL, Apache, and similar licenses are intentionally not used.
 
 ## Why proprietary
 
@@ -12,13 +12,13 @@ Open source licenses allow redistribution and modification of binaries and asset
 
 - Players and third parties can copy and share builds legally under permissive licenses.
 - Clones can reuse art, audio, and design with little practical penalty.
-- Extraction games depend on a closed player economy, unique authored content, and enforceable anti-cheat rules. Cheaters and unauthorized forks break the loop quickly.
+- Extraction games depend on a closed player economy, unique authored content and enforceable anti-cheat rules. Cheaters and unauthorized forks can ruin the player experience.
 
-Sibir keeps **client binaries only** in public distribution. Server-authoritative logic and infrastructure stay private.
+Sibir keeps client binaries only in public distribution. Server-authoritative logic and infrastructure stay private.
 
 ## Grant of license
 
-Subject to this EULA and payment where applicable (e.g. Steam purchase), you receive a **personal, non-exclusive, non-transferable, revocable** license to:
+Subject to this EULA and payment where applicable (e.g. Steam purchase), you receive a personal, non-exclusive, non-transferable, revocable license to:
 
 - Install and run the official Sibir client on devices you own or control.
 - Use in-game features as intended (single-player, official co-op multiplayer, official updates).
@@ -35,11 +35,11 @@ The developer retains full copyright and related rights in:
 - Level data, procedural rules, mission content, narrative
 - Trademarks, names, and branding
 
-You may **not** sell, sublicense, rent, lease, or commercially exploit Sibir or its assets except as explicitly allowed under modding terms below.
+You may not sell, sublicense, rent, lease, or commercially exploit Sibir or its assets except as explicitly allowed under modding terms below.
 
 ## Restrictions
 
-You agree **not** to:
+You agree not to:
 
 - Reverse engineer, decompile, or disassemble the client except where applicable law explicitly permits and only to the minimum extent required.
 - Use memory injection, packet manipulation, aimbots, macros, bots, or other automation to gain unfair advantage.
@@ -56,7 +56,7 @@ Multiplayer integrity is part of the product. Cheating that affects other player
 
 ## Server code and client distribution
 
-**Server-side code and authoritative game services are not licensed to users.** Only official client builds distributed through approved channels are licensed under this EULA.
+Server-side code and authoritative game services are not licensed to users. Only official client builds distributed through approved channels are licensed under this EULA.
 
 Do not attempt to host alternate backends, replay official protocol for commercial gain, or publish server binaries derived from Sibir.
 
