@@ -2,8 +2,6 @@
 
 **Last updated:** 2026-06-07
 
-This document describes the proprietary license terms for **Sibir** (the game, client binaries, and official distribution channels). It is not legal advice. Have qualified counsel review before you rely on it for enforcement or store submissions.
-
 ## Summary
 
 Sibir is distributed under a **proprietary, all-rights-reserved** license via a custom End User License Agreement (EULA). The game is **not** open source. MIT, GPL, Apache, and similar licenses are intentionally not used.
